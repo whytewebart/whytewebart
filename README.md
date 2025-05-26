@@ -39,9 +39,9 @@ Crafting practical, long-lasting digital solutions — from code to visuals.
 
 ### 🔗 Find Me
 
-- Portfolio: [whytewebart.com](https://e.whytewebart.com)
-- Twitter: [@madebyEmmanuel](https://twitter.com/whytewebart)
-- Instagram: [@madebyEmmanuel](https://instagram.com/whytewebart)
+- Portfolio: [e.whytewebart.com](https://e.whytewebart.com)
+- Twitter: [@Madeby—Emmanuel](https://twitter.com/whytewebart)
+- Instagram: [@Madeby—Emmanuel](https://instagram.com/whytewebart)
 
 ---
 

@@ -13,20 +13,24 @@ Crafting practical, long-lasting digital solutions — from code to visuals.
 - **Software Troubleshooting & Debugging**  
   Diagnosing complex issues and simplifying the fix.
 
-- **Brand & Visual Design**  
-  Designing compelling identities that last — logos, systems, and visual strategy.
-
 - **UI/UX Design**  
   Clean, user-focused design, balancing function and clarity.
 
 ---
 
-### 🛠 Tech I'm Comfortable With
+### Programming Languages & Tools I Use
 
-- **Frontend**: React, Vue, HTML, CSS, Tailwind, TypeScript  
-- **Backend**: Node.js, Express, Fastify, MongoDB, SQL  
-- **Mobile**: Swift, Java, Kotlin, React Native  
-- **Tools**: Figma, Illustrator, Appwrite, Supabase, Firebase, Vite, Git
+- **Programming Languages & Runtimes:**  
+Node.js, Rust, PHP, Swift, Java, Kotlin, JavaScript (ES6+)
+
+- **Frameworks & Libraries:**  
+React, Vue, Solid, Fastify, Laravel, React Native
+
+- **CMS & Website Builders:**  
+WordPress, Wix Studio, Webflow
+
+- **Build Tools & Bundlers:**  
+Vite, Webpack, Bun
 
 ---
 

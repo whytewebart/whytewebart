@@ -21,7 +21,7 @@ Crafting practical, long-lasting digital solutions — from code to visuals.
 ### Programming Languages & Tools I Use
 
 - **Programming Languages & Runtimes:**  
-Node.js, Rust, PHP, Swift, Java, Kotlin, JavaScript (ES6+)
+Node.js, Rust, PHP, Swift, Java, Kotlin, JavaScript
 
 - **Frameworks & Libraries:**  
 React, Vue, Solid, Fastify, Laravel, React Native
